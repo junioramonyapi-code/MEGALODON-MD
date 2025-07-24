@@ -80,5 +80,5 @@ module.exports = {
     
     WELCOME: process.env.WELCOME || "false",
     
-    AMDIN_EVENTS: process.env.ADMIN_EVENTS || "true",
+    AMDIN_EVENTS: process.en dev.ADMIN_EVENTS || "true",
 };
